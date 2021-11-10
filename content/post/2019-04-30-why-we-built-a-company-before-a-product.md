@@ -9,7 +9,6 @@ tags:
 - Bélarus
 - Pologne
 - infoguerre
-draft: true
 
 ---
 La frontière polono-biélorusse est devenue un point d'échauffement entre les autorités polonaises et les migrants, majoritairement venant du Moyen-Orient. Le groupe de migrants a tenté sans succès de forcer la frontière polonaise, qui est également la frontière extérieure de l'Union européenne. L'organisation et l'utilisation de migrants afin de mettre la pression sur l'UE fait partie des stratégies hybrides du régime biélorusse de Loukashenka avec, le plus probablement, un aval de Moscou.
